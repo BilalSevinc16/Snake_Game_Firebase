@@ -8,12 +8,12 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyC_fvhRVku2Dl3eZakEZ6emiY7E21mjBHE",
-        appId: "1:581643453965:web:9b39868ce72a1e7198b744",
-        messagingSenderId: "581643453965",
-        projectId: "snake-b4851",
-        storageBucket: "snake-b4851.appspot.com",
-        authDomain: "snake-b4851.firebaseapp.com",
+        apiKey: "",
+        appId: "",
+        messagingSenderId: "",
+        projectId: "",
+        storageBucket: "",
+        authDomain: "",
       ),
     );
   } else {
