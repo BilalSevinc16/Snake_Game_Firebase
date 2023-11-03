@@ -1,16 +1,11 @@
-# snake_game_firebase
+# Snake Game Firebase
 
-A new Flutter project.
+Snake Game with Firebase
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Snake_Game_Firebase/assets/146417248/81626da0-a359-4dae-8e75-8e6d8e611178)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Snake_Game_Firebase/assets/146417248/93423ef2-e6e3-4b2a-85e8-c2f5e504dca2)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Snake_Game_Firebase/assets/146417248/c7154d67-f31d-4e4e-b5ab-0302dd21ef0b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Snake_Game_Firebase/assets/146417248/1a3c6e1a-24d2-4516-bb16-6973b59bac37)
